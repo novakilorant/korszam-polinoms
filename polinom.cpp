@@ -1,4 +1,4 @@
-#include <C:\Users\lenovo\OneDrive\Projects\Programming\Uni\korszam\polinom\polinom.h>
+#include <polinom.h>
 
 int main(int argc, char** argv) {
     polinom poli, poli1, poli2;
